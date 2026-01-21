@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/ApplicationServices/">
+    <Project Path="Application.Contrats/Application.Contracts.csproj" />
+    <Project Path="Application.Services/Application.Services.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="DataAccess/DataAccess.csproj" />
+    <Project Path="Models/Models.csproj" />
+    <Project Path="Repositories/Repositories.csproj" />
+    <Project Path="UnitOfWork/UnitOfWork.csproj" />
+  </Folder>
+  <Folder Name="/Test/">
+    <Project Path="TestsAPI_N5/TestsAPI_N5.csproj" Id="b03bfdd0-d889-4025-8c06-06995488239d" />
+  </Folder>
+  <Project Path="API_N5/API_N5.csproj" />
+</Solution>
